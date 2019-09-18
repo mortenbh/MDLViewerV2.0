@@ -7,6 +7,11 @@ Animations are hardcoded in QuakeC so currently we simply dump all frames into a
 
 Due to copyright restrictions you have to supply your own `.mdl` files.
 
+Live Demo
+---------
+
+You can find a [live demo here](http://alas.dk/MDLViewerV2/).
+
 Getting started
 ---------------
 
